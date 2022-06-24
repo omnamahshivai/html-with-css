@@ -1,5 +1,5 @@
 .head{
-    color: white; background-color: black;padding: 9px;text-align: center;font-size: xx-large;
+    color: white; padding: 20px;text-align: center;font-size: 75px; background-image: url(https://www.herzing.edu/sites/default/files/styles/fp_960_640/public/2020-09/it_computer_programming.jpg.webp?itok=8aEwtSxk);text-decoration: solid;
 }
 .active{
     color: black;background-color: azure;font-size:30px; text-align:left;
@@ -33,14 +33,12 @@ div.broad{background-color: rgb(221, 185, 185);text-align: center; color: rgb(0,
     text-align: left; background-color: #ffdcaf;color: black; padding: 0.5%; font-size: 1cm;font-style: obliques;
 }
 .nvbar{
-color:white;
-background-color: #747474;
 padding: 0;
 margin: 0;
 list-style: none;
 display: block;
 text-align: center;
-}
+background-image: url(https://img.freepik.com/free-photo/modern-wood-texture-background_3544-153.jpg?w=740);}
 .nvbar a{
     color: aliceblue;
     width: 175px; height:fit-content;
@@ -86,4 +84,31 @@ font-size: 20px;
     background-color: aqua;
     color: #000000;
     width:fit-content;
+}
+body{
+    background-image: url(https://img.freepik.com/free-photo/pastel-blue-vignette-concrete-textured-background_53876-102637.jpg?t=st=1656109732~exp=1656110332~hmac=0475274f641cbe65d8cbb156255a0d8c3e8ceee42923ac0119ddea763581c2f8&w=740);
+}
+.broad{
+background-image: url(https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-56228.jpg?t=st=1656109732~exp=1656110332~hmac=5346f429cf96fbb923b4f1e2e467ff412f04ffbb0d9a349cf71b089ee8b0a124&w=740);
+color: white;
+text-align: center;
+padding: 30px;
+width: auto;
+font-weight: bolder;
+font-size: 40px;
+}
+.short{
+    background-image: url(https://img.freepik.com/free-photo/abstract-luxury-clear-yellow-wall-well-use-as-backdrop-background-layout_1258-207.jpg?t=st=1656109732~exp=1656110332~hmac=382bfbd28afed9e8cbf3ced4392ca28f9cbe9e744ff17a546c2c45a147bafcf3&w=740);
+    text-align: right;
+    color: #000000;
+    font-weight: bolder;
+    margin-right: auto;
+}
+.similar{
+    color: #ffdcaf;
+    font-weight: bolder;
+    font-size: 20px;
+    background-image: url(https://freefrontend.com/assets/img/css-background-patterns/css-lattice-pattern.png);
+    padding: 5px;
+    text-align: center;
 }
